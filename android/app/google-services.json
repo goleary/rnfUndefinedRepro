@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776040140104",
+    "project_id": "rnfundefinedrepro",
+    "storage_bucket": "rnfundefinedrepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776040140104:android:dbc167684e14b5820af77d",
+        "android_client_info": {
+          "package_name": "com.rnfundefinedrepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776040140104-5pesn883jck7bgtef4dp2pbq79iviscg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJVrKMGYeooh8cce7w5y-tpjBK912euE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776040140104-5pesn883jck7bgtef4dp2pbq79iviscg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
